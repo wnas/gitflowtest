@@ -1,4 +1,6 @@
 # gitflowtest
 testing git flow
 
-changes 
+changes
+
+my first feature
